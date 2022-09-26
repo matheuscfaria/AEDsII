@@ -1,0 +1,6 @@
+git clone https://gitexercises.fracz.com/git/exercises.git
+cd exercises
+git config user.name "Matheus Costa Faria"
+git config user.email "2020042708"
+./configure.sh
+git start
